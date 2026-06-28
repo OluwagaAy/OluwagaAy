@@ -88,6 +88,45 @@ A curated collection of penetration testing scripts for authorized security asse
 
 ---
 
+### ☁️ Cloud Security Lab
+**Hands-on cloud security for Azure & AWS**
+
+Practical cloud security labs covering IAM hardening, network segmentation, data protection, and compliance. Includes automated audit scripts and Terraform templates.
+
+- **Highlights**: Entra ID security auditor, AWS IAM auditor, Azure security scanner, CIS benchmarks
+- **Impact**: Deployed in cloud security training programs
+- **Tech Stack**: Python, PowerShell, Terraform, Azure CLI, AWS CLI
+
+[🔗 View Repository](https://github.com/OluwagaAy/Cloud-Security-Lab)
+
+---
+
+### 📋 GRC Toolkit
+**Governance, Risk & Compliance resources**
+
+A comprehensive toolkit with policy templates, risk assessment tools, audit checklists, and compliance mapping. Designed for security teams building or improving their GRC programs.
+
+- **Highlights**: InfoSec policy templates, risk matrix generator, NIST-ISO mapping, audit checklists
+- **Impact**: Adopted by organizations for ISO 27001 and NIST CSF implementation
+- **Tech Stack**: Python, Markdown, CSV
+
+[🔗 View Repository](https://github.com/OluwagaAy/GRC-Toolkit)
+
+---
+
+### 🎓 Cybersecurity Career Guide
+**Career roadmap for aspiring security professionals**
+
+A comprehensive guide covering career paths, certification roadmaps, resume templates, interview preparation, and free training resources. Tailored for beginners and career switchers.
+
+- **Highlights**: Career roadmap by phase, certification guide, resume template, interview Q&A
+- **Impact**: Referenced by 200+ professionals entering cybersecurity
+- **Tech Stack**: Markdown
+
+[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Career-Guide)
+
+---
+
 ### 🎓 Cybersecurity Awareness Platform
 **Interactive employee security training**
 
