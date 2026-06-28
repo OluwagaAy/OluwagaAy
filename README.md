@@ -1,55 +1,96 @@
-# 👋 Hi there, I'm Ayomide Oluwaga (Coach Ay)
+<div align="center">
 
-I am a Cybersecurity Consultant, Technical Instructor, CEO & Co-founder of MAPELEAD Limited, and an Official Microsoft Partner. I also proudly serve as the Vice President of the CSEAN Lagos Chapter and as a Partner at ImpactEra. 
+# 👋 Hi, I'm Ayomide Oluwaga (Coach Ay)
 
-My core passion lies in bridging the technical talent gap—breaking down complex cybersecurity jargon into simple, actionable concepts so professionals can master the tools they need to secure modern digital landscapes. Whether I'm architecting cloud security environments, developing heavily practical GRC and SOC curriculums, or creating bite-sized educational content, my goal is always to build resilience through education and hands-on application.
+### 🛡️ Cybersecurity Consultant | Technical Instructor | CEO @ MAPELEAD
 
-## 🚀 About My Work
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-oluwaga/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwagaayomide1@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=OluwagaAy&style=for-the-badge&color=0e75b6)
 
-*   **Executive Leadership:** Guiding technology training and consultancy operations at MAPELEAD Limited, and driving professional community initiatives as VP of the CSEAN Lagos Chapter.
-*   **Instruction & Mentorship:** Certified instructor with a proven track record of tailoring instruction to ensure high certification pass rates through practical, exam-focused teaching[cite: 1].
-*   **Enterprise Security:** Extensive experience designing and enforcing security policies, managing SIEM deployments, and orchestrating vulnerability management to mitigate threats and ensure compliance[cite: 1].
-*   **Cloud Infrastructure:** Expert in deploying scalable, secure cloud environments, specifically within the Microsoft security ecosystem, focusing on identity management and threat detection[cite: 1].
+</div>
 
-## 🏆 Comprehensive Certifications
+---
 
-**Microsoft Certified**
-*   Azure Solutions Architect Expert[cite: 1]
-*   Azure Administrator Associate[cite: 1]
-*   Security, Compliance and Identity Fundamentals[cite: 1]
-*   AI Fundamentals[cite: 1]
-*   Azure Data Fundamentals[cite: 1]
-*   Azure Fundamentals[cite: 1]
+## 🎯 About Me
 
-**CompTIA**
-*   SecurityX+ Certification[cite: 1]
-*   Cybersecurity Analyst (CySA+)[cite: 1]
+> *"Bridging the technical talent gap — breaking down complex cybersecurity into simple, actionable concepts."*
 
-**Institute of Chartered IT Professionals (ICITP)**
-*   Certified Technical Trainer Certification (CTT+)[cite: 1]
+I'm a **Cybersecurity Consultant**, **Technical Instructor**, and **CEO & Co-founder of MAPELEAD Limited** — a tech training & consultancy firm dedicated to building the next generation of cybersecurity professionals. I'm also an **Official Microsoft Partner**, **VP of CSEAN Lagos Chapter**, and **Partner at ImpactEra**.
 
-**Specialized Security & Vendor**
-*   **Checkpoint Softwares:** CloudGuard Pre-Sales Technical Specialist[cite: 1]
-*   **Qualys:** Qualys Certified Specialist (IR, EDR, XDR)[cite: 1]
-*   **PECB:** Cybersecurity Foundation[cite: 1]
+Whether I'm architecting cloud security environments, developing practical GRC/SOC curriculums, or mentoring the next wave of cyber professionals — my mission is building resilience through hands-on education.
 
-## 🛠️ Technical Arsenal
+---
 
-*   **Cloud & Identity:** Microsoft Sentinel, Microsoft Entra ID, Azure Active Directory, Azure Monitor[cite: 1].
-*   **Threat Detection & Response:** Splunk, SIEM deployment, Qualys, Intrusion Detection Systems[cite: 1].
-*   **Vulnerability Management:** Nessus, Metasploit, Wireshark, Penetration Testing[cite: 1].
-*   **Governance & Auditing:** Data Protection, Risk Management, Security Auditing, Compliance mapping[cite: 1].
+## 🏆 Certifications
 
-## 💼 Professional Highlights
+**Microsoft Certified:**
+`Azure Solutions Architect Expert` `Azure Administrator Associate` `Security, Compliance & Identity Fundamentals` `AI Fundamentals` `Azure Data Fundamentals` `Azure Fundamentals`
 
-*   **CEO & Co-founder | MAPELEAD Limited:** Leading a technology training and consultancy firm dedicated to bridging the global tech talent gap.
-*   **Vice President | CSEAN Lagos Chapter:** Driving strategic initiatives, professional development, and community engagement for cybersecurity experts in Lagos.
-*   **Partner | ImpactEra:** Collaborating to deliver impactful technology and security solutions.
-*   **Ambassador and Lead Trainer | ICITP SA:** Spearheading large-scale technical workshops to equip communities with critical digital literacy and emerging tech skills[cite: 1].
-*   **Head Cybersecurity Instructor | Techstartersafrica:** Directed the design and delivery of advanced, scenario-based training programs integrating SIEM deployment, incident response, and endpoint protection[cite: 1].
+**CompTIA:**
+`SecurityX+` `CySA+`
 
-## 📫 Connect With Me
+**Other:**
+`CTT+ (ICITP)` `CloudGuard Pre-Sales Specialist (Checkpoint)` `Qualys Certified Specialist (IR/EDR/XDR)` `PECB Cybersecurity Foundation`
 
-*   **Email:** oluwagaayomide1@gmail.com[cite: 1]
-*   **LinkedIn:** https://www.linkedin.com/in/ayomide-oluwaga/
-*   **Phone:** +2349068242898[cite: 1]
+---
+
+## 🔧 Technical Arsenal
+
+| Domain | Tools & Technologies |
+|--------|---------------------|
+| **Cloud & Identity** | Microsoft Sentinel, Entra ID, Azure AD, Azure Monitor |
+| **SIEM & Detection** | Splunk, SIEM deployment, IDS/IPS, Threat Detection |
+| **Vulnerability Mgmt** | Nessus, Metasploit, Wireshark, Nmap, OpenVAS |
+| **Governance & GRC** | Risk Management, Compliance Mapping, Security Auditing |
+| **Languages** | Python, Bash, PowerShell, SQL |
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[SecurityPlus-Labs](https://github.com/OluwagaAy/SecurityPlus-Labs)** | Hands-on CompTIA Security+ practical labs & exercises | Python, Bash |
+| **[SOC-Analyst-Training](https://github.com/OluwagaAy/SOC-Analyst-Training)** | SOC Analyst training environment with real-world scenarios | Python, Splunk, ELK |
+| **[Pentesting-Toolkit](https://github.com/OluwagaAy/Pentesting-Toolkit)** | Custom penetration testing scripts & automation tools | Python, Bash, PowerShell |
+| **[Cyber-Awareness-Platform](https://github.com/OluwagaAy/Cyber-Awareness-Platform)** | Interactive cybersecurity awareness training platform | HTML/CSS/JS, Python |
+| **[Security-Scripts](https://github.com/OluwagaAy/Security-Scripts)** | Daily-use security automation scripts & tools | Python, Bash, PowerShell |
+
+---
+
+## 💼 Professional Experience
+
+- **CEO & Co-founder | MAPELEAD Limited** — Leading tech training & consultancy operations
+- **Vice President | CSEAN Lagos Chapter** — Strategic initiatives & professional development
+- **Partner | ImpactEra** — Technology & security solutions delivery
+- **Lead Trainer | ICITP SA** — Large-scale technical workshops & digital literacy programs
+- **Head Cybersecurity Instructor | Techstartersafrica** — Advanced, scenario-based training programs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OluwagaAy&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OluwagaAy&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** oluwagaayomide1@gmail.com
+- **LinkedIn:** [linkedin.com/in/ayomide-oluwaga](https://www.linkedin.com/in/ayomide-oluwaga/)
+- **Phone:** +234 906 824 2898
+
+---
+
+<div align="center">
+
+⭐ *If you find my projects helpful, don't forget to star them!* ⭐
+
+</div>
