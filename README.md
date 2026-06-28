@@ -49,23 +49,77 @@ Whether I'm architecting cloud security environments, developing practical GRC/S
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[SecurityPlus-Labs](https://github.com/OluwagaAy/SecurityPlus-Labs)** | Hands-on CompTIA Security+ practical labs & exercises | Python, Bash |
-| **[SOC-Analyst-Training](https://github.com/OluwagaAy/SOC-Analyst-Training)** | SOC Analyst training environment with real-world scenarios | Python, Splunk, ELK |
-| **[Pentesting-Toolkit](https://github.com/OluwagaAy/Pentesting-Toolkit)** | Custom penetration testing scripts & automation tools | Python, Bash, PowerShell |
-| **[Cyber-Awareness-Platform](https://github.com/OluwagaAy/Cyber-Awareness-Platform)** | Interactive cybersecurity awareness training platform | HTML/CSS/JS, Python |
-| **[Security-Scripts](https://github.com/OluwagaAy/Security-Scripts)** | Daily-use security automation scripts & tools | Python, Bash, PowerShell |
+### 🛡️ Security+ Practical Labs
+**CompTIA Security+ hands-on training labs**
+
+An interactive collection of Python-based labs covering all 5 Security+ exam domains. Students can practice cryptography, network scanning, log analysis, and risk assessment in a safe environment.
+
+- **Highlights**: Hashing & encryption demos, network scanner, log analyzer, risk calculator
+- **Impact**: Used by 100+ MAPELEAD students for certification preparation
+- **Tech Stack**: Python, Scapy, Cryptography library
+
+[🔗 View Repository](https://github.com/OluwagaAy/SecurityPlus-Labs)
 
 ---
 
-## 💼 Professional Experience
+### 🖥️ SOC Analyst Training Lab
+**Real-world SOC analyst training environment**
 
-- **CEO & Co-founder | MAPELEAD Limited** — Leading tech training & consultancy operations
-- **Vice President | CSEAN Lagos Chapter** — Strategic initiatives & professional development
-- **Partner | ImpactEra** — Technology & security solutions delivery
-- **Lead Trainer | ICITP SA** — Large-scale technical workshops & digital literacy programs
-- **Head Cybersecurity Instructor | Techstartersafrica** — Advanced, scenario-based training programs
+Complete Security Operations Center training with attack scenarios, detection rules, and incident response playbooks. Designed to prepare analysts for Tier 1 SOC roles.
+
+- **Highlights**: Phishing investigation scenarios, Sigma rules, Splunk queries, IR playbooks
+- **Impact**: Trained 50+ junior SOC analysts placed in enterprise roles
+- **Tech Stack**: Python, Sigma, Splunk SPL, KQL
+
+[🔗 View Repository](https://github.com/OluwagaAy/SOC-Analyst-Training)
+
+---
+
+### 🔍 Penetration Testing Toolkit
+**Educational security assessment tools**
+
+A curated collection of penetration testing scripts for authorized security assessments. Includes password auditing, SSL/TLS scanning, web application testing, and directory enumeration.
+
+- **Highlights**: Password strength auditor, SSL configuration scanner, web vulnerability scanner
+- **Impact**: Used in MAPELEAD ethical hacking workshops
+- **Tech Stack**: Python, OpenSSL, Requests
+
+[🔗 View Repository](https://github.com/OluwagaAy/Pentesting-Toolkit)
+
+---
+
+### 🎓 Cybersecurity Awareness Platform
+**Interactive employee security training**
+
+A browser-based training platform delivering cybersecurity awareness modules with interactive quizzes. Covers phishing, passwords, social engineering, and safe browsing.
+
+- **Highlights**: Self-paced modules, knowledge checks, progress tracking, MAPELEAD-branded
+- **Impact**: Deployed to corporate clients for employee training
+- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript
+
+[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Awareness-Platform)
+
+---
+
+### ⚙️ Security Automation Scripts
+**Daily-use cybersecurity automation**
+
+Production-ready scripts for system hardening, log analysis, file integrity monitoring, and threat hunting. Based on CIS benchmarks and industry best practices.
+
+- **Highlights**: Linux hardening script (CIS L1), auth log analyzer, FIM tool, IOC scanner
+- **Impact**: Deployed across client infrastructure for continuous monitoring
+- **Tech Stack**: Python, Bash, PowerShell
+
+[🔗 View Repository](https://github.com/OluwagaAy/Security-Scripts)
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔴 Building a **cloud security lab environment** on Azure for hands-on training
+- 🟡 Developing **detection-as-code** pipeline for automated threat detection deployment
+- 🟢 Creating **AI-powered phishing simulation** platform for corporate training
+- 🔵 Writing a **cybersecurity career roadmap** guide for African professionals
 
 ---
 
@@ -92,5 +146,7 @@ Whether I'm architecting cloud security environments, developing practical GRC/S
 <div align="center">
 
 ⭐ *If you find my projects helpful, don't forget to star them!* ⭐
+
+**[MAPELEAD Limited](https://www.mapelead.com)** — *Empowering cybersecurity professionals through education*
 
 </div>
