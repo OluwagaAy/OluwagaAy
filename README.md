@@ -48,7 +48,7 @@ Whether I'm architecting cloud security environments, developing practical GRC/S
 
 ---
 
-## 📂 Featured Projects (12 Repositories)
+## 📂 Featured Projects (13 Repositories)
 
 ### 🛡️ Security+ Practical Labs
 Hands-on CompTIA Security+ training labs covering all 5 exam domains. Students practice cryptography, network scanning, log analysis, and risk assessment.
@@ -58,7 +58,7 @@ Hands-on CompTIA Security+ training labs covering all 5 exam domains. Students p
 ---
 
 ### 🖥️ SOC Analyst Training Lab
-Real-world SOC training with attack scenarios, Sigma detection rules, Splunk queries, and incident response playbooks. Prepares analysts for Tier 1 SOC roles.
+Real-world SOC training with attack scenarios, Sigma detection rules, Splunk queries, and incident response playbooks.
 
 **[🔗 View Repository](https://github.com/OluwagaAy/SOC-Analyst-Training)**
 
@@ -89,6 +89,17 @@ Governance, Risk & Compliance toolkit with policy templates, risk assessment too
 Comprehensive career roadmap with certification guides, resume templates, interview preparation, and free training resources.
 
 **[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Career-Guide)**
+
+---
+
+### 🎣 Phishing Simulation & Detection Platform 🆕
+Authorized phishing simulation engine for employee security awareness training, plus email/URL phishing detection for blue team defensive operations.
+
+- **Features**: Phishing email/URL detector, simulation campaign manager, training dashboard, educational feedback system
+- **Impact**: Helps organizations measure and improve phishing awareness
+- **Tech Stack**: Python, Flask, HTML/CSS/JS
+
+**[🔗 View Repository](https://github.com/OluwagaAy/Phishing-Simulation-Platform)**
 
 ---
 
