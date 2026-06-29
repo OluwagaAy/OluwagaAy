@@ -43,113 +43,94 @@ Whether I'm architecting cloud security environments, developing practical GRC/S
 | **SIEM & Detection** | Splunk, SIEM deployment, IDS/IPS, Threat Detection |
 | **Vulnerability Mgmt** | Nessus, Metasploit, Wireshark, Nmap, OpenVAS |
 | **Governance & GRC** | Risk Management, Compliance Mapping, Security Auditing |
+| **Container Security** | Docker, Kubernetes, Trivy, Falco |
 | **Languages** | Python, Bash, PowerShell, SQL |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects (12 Repositories)
 
 ### 🛡️ Security+ Practical Labs
-**CompTIA Security+ hands-on training labs**
+Hands-on CompTIA Security+ training labs covering all 5 exam domains. Students practice cryptography, network scanning, log analysis, and risk assessment.
 
-An interactive collection of Python-based labs covering all 5 Security+ exam domains. Students can practice cryptography, network scanning, log analysis, and risk assessment in a safe environment.
-
-- **Highlights**: Hashing & encryption demos, network scanner, log analyzer, risk calculator
-- **Impact**: Used by 100+ MAPELEAD students for certification preparation
-- **Tech Stack**: Python, Scapy, Cryptography library
-
-[🔗 View Repository](https://github.com/OluwagaAy/SecurityPlus-Labs)
+**[🔗 View Repository](https://github.com/OluwagaAy/SecurityPlus-Labs)**
 
 ---
 
 ### 🖥️ SOC Analyst Training Lab
-**Real-world SOC analyst training environment**
+Real-world SOC training with attack scenarios, Sigma detection rules, Splunk queries, and incident response playbooks. Prepares analysts for Tier 1 SOC roles.
 
-Complete Security Operations Center training with attack scenarios, detection rules, and incident response playbooks. Designed to prepare analysts for Tier 1 SOC roles.
-
-- **Highlights**: Phishing investigation scenarios, Sigma rules, Splunk queries, IR playbooks
-- **Impact**: Trained 50+ junior SOC analysts placed in enterprise roles
-- **Tech Stack**: Python, Sigma, Splunk SPL, KQL
-
-[🔗 View Repository](https://github.com/OluwagaAy/SOC-Analyst-Training)
+**[🔗 View Repository](https://github.com/OluwagaAy/SOC-Analyst-Training)**
 
 ---
 
 ### 🔍 Penetration Testing Toolkit
-**Educational security assessment tools**
+Educational security assessment tools including password auditing, SSL/TLS scanning, web vulnerability scanning, and directory enumeration.
 
-A curated collection of penetration testing scripts for authorized security assessments. Includes password auditing, SSL/TLS scanning, web application testing, and directory enumeration.
-
-- **Highlights**: Password strength auditor, SSL configuration scanner, web vulnerability scanner
-- **Impact**: Used in MAPELEAD ethical hacking workshops
-- **Tech Stack**: Python, OpenSSL, Requests
-
-[🔗 View Repository](https://github.com/OluwagaAy/Pentesting-Toolkit)
+**[🔗 View Repository](https://github.com/OluwagaAy/Pentesting-Toolkit)**
 
 ---
 
 ### ☁️ Cloud Security Lab
-**Hands-on cloud security for Azure & AWS**
+Practical cloud security labs for Azure & AWS with IAM hardening, network segmentation, data protection, and compliance audit scripts.
 
-Practical cloud security labs covering IAM hardening, network segmentation, data protection, and compliance. Includes automated audit scripts and Terraform templates.
-
-- **Highlights**: Entra ID security auditor, AWS IAM auditor, Azure security scanner, CIS benchmarks
-- **Impact**: Deployed in cloud security training programs
-- **Tech Stack**: Python, PowerShell, Terraform, Azure CLI, AWS CLI
-
-[🔗 View Repository](https://github.com/OluwagaAy/Cloud-Security-Lab)
+**[🔗 View Repository](https://github.com/OluwagaAy/Cloud-Security-Lab)**
 
 ---
 
 ### 📋 GRC Toolkit
-**Governance, Risk & Compliance resources**
+Governance, Risk & Compliance toolkit with policy templates, risk assessment tools, NIST-ISO mapping, and audit checklists.
 
-A comprehensive toolkit with policy templates, risk assessment tools, audit checklists, and compliance mapping. Designed for security teams building or improving their GRC programs.
-
-- **Highlights**: InfoSec policy templates, risk matrix generator, NIST-ISO mapping, audit checklists
-- **Impact**: Adopted by organizations for ISO 27001 and NIST CSF implementation
-- **Tech Stack**: Python, Markdown, CSV
-
-[🔗 View Repository](https://github.com/OluwagaAy/GRC-Toolkit)
+**[🔗 View Repository](https://github.com/OluwagaAy/GRC-Toolkit)**
 
 ---
 
-### 🎓 Cybersecurity Career Guide
-**Career roadmap for aspiring security professionals**
+### 🎯 Cybersecurity Career Guide
+Comprehensive career roadmap with certification guides, resume templates, interview preparation, and free training resources.
 
-A comprehensive guide covering career paths, certification roadmaps, resume templates, interview preparation, and free training resources. Tailored for beginners and career switchers.
+**[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Career-Guide)**
 
-- **Highlights**: Career roadmap by phase, certification guide, resume template, interview Q&A
-- **Impact**: Referenced by 200+ professionals entering cybersecurity
-- **Tech Stack**: Markdown
+---
 
-[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Career-Guide)
+### 💻 Blue Team Defense Tools
+Active defense PowerShell and Python tools for threat detection, automated incident response, endpoint monitoring, and Windows forensics.
+
+**[🔗 View Repository](https://github.com/OluwagaAy/Blue-Team-Defense)**
+
+---
+
+### 🌐 Threat Intelligence Platform
+Open-source IOC collector, enricher, and correlator with MITRE ATT&CK mapping and STIX/TAXII export support.
+
+**[🔗 View Repository](https://github.com/OluwagaAy/Threat-Intel-Platform)**
+
+---
+
+### 🐳 Container Security Lab
+Docker and Kubernetes security lab with vulnerability scanning, hardening guides, runtime security, and container forensics tools.
+
+**[🔗 View Repository](https://github.com/OluwagaAy/Container-Security-Lab)**
+
+---
+
+### 🏴‍☠️ CTF Challenges
+Capture The Flag challenges for cybersecurity training — web exploitation, cryptography, forensics, reverse engineering, and privilege escalation.
+
+**[🔗 View Repository](https://github.com/OluwagaAy/CTF-Challenges)**
 
 ---
 
 ### 🎓 Cybersecurity Awareness Platform
-**Interactive employee security training**
+Interactive browser-based training platform with phishing, password security, social engineering modules, and quizzes.
 
-A browser-based training platform delivering cybersecurity awareness modules with interactive quizzes. Covers phishing, passwords, social engineering, and safe browsing.
-
-- **Highlights**: Self-paced modules, knowledge checks, progress tracking, MAPELEAD-branded
-- **Impact**: Deployed to corporate clients for employee training
-- **Tech Stack**: HTML5, CSS3, Vanilla JavaScript
-
-[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Awareness-Platform)
+**[🔗 View Repository](https://github.com/OluwagaAy/Cyber-Awareness-Platform)**
 
 ---
 
 ### ⚙️ Security Automation Scripts
-**Daily-use cybersecurity automation**
+Production-ready scripts for system hardening (CIS L1), log analysis, file integrity monitoring, and IOC scanning.
 
-Production-ready scripts for system hardening, log analysis, file integrity monitoring, and threat hunting. Based on CIS benchmarks and industry best practices.
-
-- **Highlights**: Linux hardening script (CIS L1), auth log analyzer, FIM tool, IOC scanner
-- **Impact**: Deployed across client infrastructure for continuous monitoring
-- **Tech Stack**: Python, Bash, PowerShell
-
-[🔗 View Repository](https://github.com/OluwagaAy/Security-Scripts)
+**[🔗 View Repository](https://github.com/OluwagaAy/Security-Scripts)**
 
 ---
 
